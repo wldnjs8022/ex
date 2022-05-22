@@ -108,3 +108,11 @@ section {
     width: 200px;
     height: 150px;
   }
+  .link{
+    position: relative;
+    text-align: center;
+    margin: 0 auto;
+    color: #ff7979;
+    font-family: 'Open Sans';
+    text-decoration-line: none;
+  }
