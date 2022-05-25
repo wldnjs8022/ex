@@ -71,7 +71,7 @@ aside {
 section {
   display: flex;
   flex-direction: row;
-  flex-wrap: center;
+  flex-wrap: wrap;
   justify-content: center;
   align-items: center;
   margin: 70px;
